@@ -3,6 +3,7 @@ import Feather from '@expo/vector-icons/Feather';
 import { CameraType, CameraView, useCameraPermissions } from 'expo-camera';
 import { useRef, useState } from 'react';
 import { Button, Pressable, Text, View } from 'react-native';
+
 export function CameraCapture({
   onCapture,
   styles,
