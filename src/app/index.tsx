@@ -1,4 +1,4 @@
-import { CameraCapture } from '@/components/CameraView';
+import { CameraCapture } from '@/src/components/CameraView';
 import { useState } from 'react';
 import { Image, StyleSheet, View } from 'react-native';
 
